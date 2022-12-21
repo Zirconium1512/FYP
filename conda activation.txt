@@ -1,0 +1,1 @@
+%UserProfile%\miniconda3\condabin\activate
