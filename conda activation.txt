@@ -1,1 +1,1 @@
-%UserProfile%\miniconda3\condabin\activate
+C:/Users/Zirconium/miniconda3/Scripts/activate
